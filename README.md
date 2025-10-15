@@ -1,4 +1,4 @@
-# MediSys - Sistema de Registros Médicos Electrónicos
+# MediSys - Sistema de Registros Médicos
 
 Sistema integral de Gestión Hospitalaria construido con Next.js 15, que incluye control de acceso basado en roles, gestión de citas, historiales médicos y flujos de trabajo para atención al paciente.
 
