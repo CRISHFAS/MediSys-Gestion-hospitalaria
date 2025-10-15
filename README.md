@@ -10,14 +10,11 @@ Sistema integral de Gestión Hospitalaria construido con Next.js 15, que incluye
 - **Doctor**: Gestión de pacientes, citas, notas clínicas e historiales médicos
 - **Paciente**: Reserva de citas, visualización de historial médico y gestión de perfil
 - **Enfermera**: Funciones de cuidado y soporte al paciente
-- **Técnico de Laboratorio**: Gestión de pruebas de laboratorio
-- **Cajero**: Gestión de pagos y facturación
 
 ### Funcionalidades Principales
 
 - **Gestión de Citas**: Programar, reprogramar y hacer seguimiento de citas
 - **Historiales Médicos**: Historial médico completo del paciente y notas clínicas
-- **Facturación y Pagos**: Procesamiento integrado de pagos y gestión de facturación
 - **Portal del Paciente**: Reserva de citas autoservicio y acceso a historial médico
 - **Dashboard de Analíticas**: Estadísticas en tiempo real y métricas de rendimiento
 - **Gestión de Personal**: Directorio completo del personal y gestión de perfiles
@@ -28,7 +25,6 @@ Sistema integral de Gestión Hospitalaria construido con Next.js 15, que incluye
 - **Base de Datos**: PostgreSQL con Prisma ORM
 - **UI/UX**: Diseño moderno y responsive con Tailwind CSS y Radix UI
 - **Actualizaciones en Tiempo Real**: Estado de citas en vivo y notificaciones
-- **Gestión de Archivos**: Carga y almacenamiento de documentos médicos
 - **Búsqueda y Filtros**: Capacidades avanzadas de búsqueda en todos los módulos
 
 ## 🚀 Comenzando
@@ -127,26 +123,6 @@ Electronic-Medical-App-main/
 - **Formularios**: React Hook Form con validación Zod
 - **Iconos**: Lucide React
 - **Deployment**: Preparado para Vercel
-
-## 🔐 Autenticación y Autorización
-
-El sistema utiliza Clerk para autenticación con control de acceso basado en roles:
-
-- **Administrador**: Acceso completo al sistema
-- **Doctor**: Gestión de pacientes e historiales médicos
-- **Paciente**: Citas personales e historial médico
-- **Personal**: Permisos específicos según el rol
-
-## 📊 Esquema de Base de Datos
-
-La aplicación utiliza un esquema de base de datos integral que incluye:
-
-- **Pacientes**: Perfiles completos de pacientes e historial médico
-- **Doctores**: Perfiles del personal y especializaciones
-- **Citas**: Programación y seguimiento de estado
-- **Historiales Médicos**: Notas clínicas y diagnósticos
-- **Pagos**: Facturación y procesamiento de pagos
-- **Calificaciones**: Sistema de retroalimentación del paciente
 
 ## 🚀 Deployment
 
