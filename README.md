@@ -44,8 +44,8 @@ Sistema integral de Gestión Hospitalaria construido con Next.js 15, que incluye
 1. **Clonar el repositorio**
 
    ```bash
-   git clone <url-del-repositorio>
-   cd Electronic-Medical-App-main
+   git clone git@github.com:CRISHFAS/MediSys-Gestion-hospitalaria.git
+   cd MediSys-Gestion-hospitalaria
    ```
 
 2. **Instalar dependencias**
