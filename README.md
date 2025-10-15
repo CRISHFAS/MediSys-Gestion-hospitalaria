@@ -164,61 +164,6 @@ Asegúrate de que todas las variables de entorno requeridas estén configuradas 
 - `CLERK_SECRET_KEY`
 - `CLERK_PUBLISHABLE_KEY`
 
-## 🤝 Contribuir
-
-1. Haz un fork del repositorio
-2. Crea una rama para tu funcionalidad (`git checkout -b feature/funcionalidad-increible`)
-3. Haz commit de tus cambios (`git commit -m 'Agregar funcionalidad increíble'`)
-4. Haz push a la rama (`git push origin feature/funcionalidad-increible`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## 🆘 Soporte
-
-Para soporte y preguntas:
-
-- Crea un issue en el repositorio de GitHub
-- Contacta al equipo de desarrollo
-- Consulta la documentación en la carpeta `/docs`
-
-## Historial de Versiones
-
-- **v0.1.0**: Lanzamiento inicial con funcionalidad central del HMS
-  - Sistema de autenticación multi-rol
-  - Gestión de citas
-  - Sistema de historiales médicos
-  - Portal del paciente
-  - Dashboard de administrador con analíticas
-
----
-
-**MediSys** - Optimizando la gestión hospitalaria con tecnología moderna.
-
-## 📸 Capturas de Pantalla
-
-### Dashboard de Administrador
-Panel de control con estadísticas en tiempo real, gestión de usuarios y analíticas del sistema.
-
-### Portal del Doctor
-Interfaz completa para gestión de pacientes, citas y actualización de historiales médicos.
-
-### Portal del Paciente
-Sistema autoservicio para reserva de citas, visualización de historial médico y gestión de perfil.
-
-## 🎯 Próximas Funcionalidades
-
-- [ ] Sistema de mensajería interna entre doctores y pacientes
-- [ ] Integración con dispositivos médicos IoT
-- [ ] Telemedicina y consultas virtuales
-- [ ] Sistema de prescripción electrónica
-- [ ] Reportes y analíticas avanzadas con IA
-- [ ] App móvil nativa (iOS/Android)
-- [ ] Sistema de inventario de farmacia
-- [ ] Integración con laboratorios externos
-
 ## 💡 Casos de Uso
 
 - **Hospitales Privados**: Gestión completa de operaciones hospitalarias
@@ -242,11 +187,8 @@ Sistema autoservicio para reserva de citas, visualización de historial médico 
 - ✅ PWA (Progressive Web App) capable
 - ✅ Soporte para modo oscuro
 
-## 🌐 Internacionalización
-
-- Soporte para múltiples idiomas
-- Configuración regional de fecha/hora
-- Formatos de moneda locales
-- Traducción de términos médicos
-
 ---
+
+## 📝 Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
